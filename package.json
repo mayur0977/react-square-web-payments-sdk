@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
   "license": "MIT",
-  "main": "dist/rswps.cjs.js",
+  "main": "dist/rswps.js",
   "types": "dist/types.d.ts",
   "files": [
     "dist"
@@ -44,7 +44,7 @@
   "module": "dist/rswps.esm.js",
   "size-limit": [
     {
-      "path": "dist/rswps.cjs.js",
+      "path": "dist/rswps.js",
       "limit": "15 KB"
     },
     {
